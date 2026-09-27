@@ -1,5 +1,9 @@
 # Projeto de Programação Funcional
 
+<!-- repos-pai:inicio -->
+> **Repositório pai:** [`Projetos_Em_Inatividade__Faculdade`](https://github.com/igorcodigo/Projetos_Em_Inatividade__Faculdade) — pasta `Projetos_Em_Inatividade/Faculdade`
+<!-- repos-pai:fim -->
+
 Este projeto foi desenvolvido como parte do trabalho de faculdade na disciplina de Programação Funcional. O objetivo é demonstrar a aplicação de conceitos de programação funcional
 
 ## Membros do Projeto
